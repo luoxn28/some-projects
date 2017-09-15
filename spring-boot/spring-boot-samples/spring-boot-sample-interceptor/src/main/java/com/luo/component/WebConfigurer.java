@@ -1,4 +1,4 @@
-package com.luo.config;
+package com.luo.component;
 
 import com.luo.interceptor.WebInterceptor;
 import org.springframework.context.annotation.Configuration;
